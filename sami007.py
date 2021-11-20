@@ -67,7 +67,7 @@ print ' '
 jalan('\x1b[1;93m ')
 jalan('\x1b[1;91m●❯───────❮● ')
 jalan('\x1b[1;92m●❯───────❮●')
-jalan("\x1b[1;91m●❯───SAMI───❮● ")
+jalan("\x1b[1;91m●❯───SAMI──❮● ")
 jalan('\x1b[1;92m●❯───VAU───❮●')
 jalan("\x1b[1;91m`●❯───────❮●")
 jalan('\x1b[1;96m●❯───────❮●')
